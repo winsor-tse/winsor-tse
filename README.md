@@ -2,5 +2,4 @@
 - 👀 I’m a Computer Science graduate with a bachelor degree
 - 📫 How to reach me tsewinsor@gmail.com
 - This is my personal website:(https://winsor-portfolio.vercel.app/)
-- Old Website: https://winsorspersonalweb.netlify.app/
 
